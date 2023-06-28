@@ -12,9 +12,9 @@ To start the backend server, please use the command "npm start." For the fronten
 
 Back-End API: 
 
-Home:     http://localhost:5000/
-Post:     http://localhost:5000/posts
-Comments: http://localhost:5000/comments
-Photo :   http://localhost:5000/photo
-Todos :   http://localhost:5000/todos
-Albums:   http://localhost:5000/albums
+Home:     http://localhost:5000/ <br/>
+Post:     http://localhost:5000/posts <br/>
+Comments: http://localhost:5000/comments <br/>
+Photo :   http://localhost:5000/photo <br/>
+Todos :   http://localhost:5000/todos <br/>
+Albums:   http://localhost:5000/albums <br/>
